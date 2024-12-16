@@ -19,4 +19,6 @@
 
 - https://learn.microsoft.com/en-us/azure/azure-monitor/app/live-stream?tabs=otel#get-started
 
-- https://learn.microsoft.com/en-us/aspnet/core/log-mon/metrics/metrics?view=aspnetcore-9.0-
+- https://learn.microsoft.com/en-us/aspnet/core/log-mon/metrics/metrics?view=aspnetcore-9.0
+
+- https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/security-considerations?tabs=bash#secure-telemetry-endpoint
